@@ -58,6 +58,8 @@ export default {
 
 .imagecontainer {
   width: 100%;
+  max-height: 500px;
+
 }
 
 .imagecontainer img{

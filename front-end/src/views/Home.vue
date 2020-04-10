@@ -88,6 +88,7 @@ export default {
   padding: 30px;
   background-color: black;
   transition: .5s ease;
+  overflow: hidden;
 }
 .hovertext {
   color: white;
@@ -99,7 +100,7 @@ export default {
   height: 350px;
   padding: 30px;
   transition: .5s ease;
-  overflow: hidden; 
+  overflow: hidden;
 }
 
 .hovertitle{
