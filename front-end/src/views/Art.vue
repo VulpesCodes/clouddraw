@@ -59,7 +59,8 @@ export default {
 .imagecontainer {
   width: 100%;
   max-height: 600px;
-  margin: auto;
+  display: flex;
+  justify-content: center;
 }
 
 .imagecontainer img{
