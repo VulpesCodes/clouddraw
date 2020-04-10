@@ -59,12 +59,13 @@ export default {
 .imagecontainer {
   width: 100%;
   max-height: 600px;
-
+  margin: auto;
 }
 
 .imagecontainer img{
   max-width: 100%;
   max-height: 600px;
+  margin: auto;
 }
 
 .artist {
