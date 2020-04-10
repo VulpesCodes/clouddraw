@@ -22,7 +22,7 @@
     <router-view />
   </div>
   <div class="footer">
-    <a href="https://github.com/BYU-CS-260-Winter-2020/lab-4-museum-of-ordinary-objects-VulpesCodes">github</a>
+    <a href="https://github.com/VulpesCodes/clouddraw.git">github</a>
   </div>
 </div>
 </template>

@@ -99,6 +99,7 @@ export default {
   height: 350px;
   padding: 30px;
   transition: .5s ease;
+  overflow: hidden; 
 }
 
 .hovertitle{
