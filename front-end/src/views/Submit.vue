@@ -100,7 +100,7 @@
               this.title = "";
               this.artist = "";
               this.desc = "";
-              getItems()
+              this.getItems()
           } catch (error) {
             return true;
           }
